@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.6bd1b47b.chunk.css",
-    "main.js": "/static/js/main.af048210.chunk.js",
-    "main.js.map": "/static/js/main.af048210.chunk.js.map",
+    "main.js": "/static/js/main.d37de7ab.chunk.js",
+    "main.js.map": "/static/js/main.d37de7ab.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3ac8cd0e.js",
     "runtime-main.js.map": "/static/js/runtime-main.3ac8cd0e.js.map",
-    "static/js/2.2137f592.chunk.js": "/static/js/2.2137f592.chunk.js",
-    "static/js/2.2137f592.chunk.js.map": "/static/js/2.2137f592.chunk.js.map",
+    "static/js/2.b97f8dc9.chunk.js": "/static/js/2.b97f8dc9.chunk.js",
+    "static/js/2.b97f8dc9.chunk.js.map": "/static/js/2.b97f8dc9.chunk.js.map",
     "e78392d7bc3a7b00013d7c170ef4b2af.obj": "/e78392d7bc3a7b00013d7c170ef4b2af.obj",
     "index.html": "/index.html",
     "static/css/main.6bd1b47b.chunk.css.map": "/static/css/main.6bd1b47b.chunk.css.map",
-    "static/js/2.2137f592.chunk.js.LICENSE.txt": "/static/js/2.2137f592.chunk.js.LICENSE.txt",
+    "static/js/2.b97f8dc9.chunk.js.LICENSE.txt": "/static/js/2.b97f8dc9.chunk.js.LICENSE.txt",
     "static/media/avaxlogoy.d531486f.png": "/static/media/avaxlogoy.d531486f.png",
     "static/media/binancelogo.319c58bb.png": "/static/media/binancelogo.319c58bb.png",
     "static/media/binancelogow.9ce102a7.png": "/static/media/binancelogow.9ce102a7.png",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3ac8cd0e.js",
-    "static/js/2.2137f592.chunk.js",
+    "static/js/2.b97f8dc9.chunk.js",
     "static/css/main.6bd1b47b.chunk.css",
-    "static/js/main.af048210.chunk.js"
+    "static/js/main.d37de7ab.chunk.js"
   ]
 }
